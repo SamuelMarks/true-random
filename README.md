@@ -10,3 +10,7 @@ Take a look at:
 * Usage and rationale: `readme.pdf`
 
 Written for the Pennsylvania Junior Academy of Science, 2013.
+
+## Install package
+
+    pip install http://github.com/SamuelMarks/true-random/zipball/master#egg=true-random
